@@ -25,7 +25,7 @@ Follow these steps to set up the deployment pipeline:
 
 3. **GitHub Actions Workflow**:
    - Create a folder named `.github/workflows` in your repository.
-   - Inside this folder, create a YAML file (e.g., `deploy.yml`) to define your GitHub Actions workflow. You can use the provided sample `deploy.yml` in the previous response.
+   - Inside this folder, create a YAML file (e.g., `pyhton-app.yml`) to define your GitHub Actions workflow. 
    - 
 4. **Commit and Push**:
    - Commit the changes you made to the `.github/workflows/deploy.yml` file and push them to your GitHub repository.
