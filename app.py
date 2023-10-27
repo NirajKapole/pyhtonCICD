@@ -1,5 +1,7 @@
 print("Hello World")
 
-print("This is python deployment")
+print("New Commit")
 
-print("Codecommit pipeline")
+# print("This is python deployment")
+
+# print("Codecommit pipeline")
